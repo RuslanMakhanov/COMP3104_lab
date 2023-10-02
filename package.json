@@ -1,0 +1,16 @@
+{
+  "name": "homework",
+  "version": "1.0.0",
+  "description": "-- Ruslan Makhanov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RuslanMakhanov/COMP3104_lab.git"
+  },
+  "keywords": ["devops", "nodejs","express","web"],
+  "author": "Ruslan Makhanov",
+  "license": "ISC"
+}

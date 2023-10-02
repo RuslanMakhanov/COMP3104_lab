@@ -1,3 +1,3 @@
-#### COMP3104 – Developer Operations
+#### DevOps COMP3104 – Developer Operations
 
 -- Ruslan Makhanov
